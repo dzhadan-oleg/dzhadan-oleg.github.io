@@ -1,0 +1,1 @@
+window.Kyoto={loadDesign:()=>JSON.stringify({background:'kyoto',motion:true,rain:true,darkness:8}),saveDesign:()=>{},launch:()=>{},video:()=>{},hdmi:()=>{},timer:()=>{},exit:()=>{},cast:()=>{},systemSettings:()=>{},allowMedia:()=>{},allowYouTubeProgress:()=>{},refreshData:()=>{},vpn:()=>{}};
